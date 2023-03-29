@@ -8,7 +8,6 @@ export default function App({ Component, pageProps }) {
     <>
       <Head>
         <title>Piu Dey</title>
-
       </Head>
       <NavBarComp />
       <Component {...pageProps} />
